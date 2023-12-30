@@ -72,3 +72,9 @@ Run the fruit_detection.py script:
   python fruit_detection.py --image path/to/your/image.jpg
 
 ```
+IMages:-
+![fruit 1](https://github.com/prajwalganvir/Fruit_detection_using_opencv/assets/109936069/989746c6-15df-43f0-b298-772168448680)
+
+![fruit 2](https://github.com/prajwalganvir/Fruit_detection_using_opencv/assets/109936069/409e272d-0eb6-41c0-9730-e244438f13fc)
+
+
